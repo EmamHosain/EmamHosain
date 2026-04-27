@@ -28,14 +28,6 @@
 * ☁️ VPS Deployment & Server Management
 * 🔐 Environment Configuration & Security Best Practices
 
----
-
-## 🌐 Connect With Me
-
-(Add your links here)
-
----
-
 
 ## You can **reach me** via:  
 
